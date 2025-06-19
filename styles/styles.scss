@@ -1,14 +1,15 @@
-@import 
-'normalize', 
-'fonts', 
-'mixins', 
-'media', 
-'variables', 
-'utils', 
+@import 'normalize',
+'fonts',
+'mixins',
+'media',
+'variables',
+'utils',
 'globals';
 
-@import 
-'blocks/button',
+@import 'blocks/button',
+'blocks/field',
+'blocks/radio',
+'blocks/radios',
 'blocks/grid',
 'blocks/burger-button',
 'blocks/header',
@@ -21,4 +22,10 @@
 'blocks/banner',
 'blocks/section',
 'blocks/studies',
-'blocks/process';
+'blocks/process',
+'blocks/team',
+'blocks/team-card',
+'blocks/reviews',
+'blocks/review-card',
+'blocks/pagination',
+'blocks/contact-us';
